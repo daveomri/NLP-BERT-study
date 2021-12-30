@@ -33,7 +33,7 @@ spolu souhlasi, label je 0 a pokud ani jedno je label 1.
 Data jsou v adresari input, a to v takovem formatu, aby po presunu notebooku
 do Kagglu ihned spustit.
 
-# Popis zpracovani - bude se lehce modifikovat
+# Popis zpracovani
 
 Jelikoz je tato problematika nova, chci se v teto praci zamerit na pochopeni a to 
 takovym zpusobem, ze zacnu s naivnim pristupem, ktery rozebere veskere dale 
@@ -42,5 +42,7 @@ komplexnejsi pristupy.
 Tento projekt zpracovavam v jupyter-notebooku a to kvuli tomu, abych jednak vytvoril
 potrebne modely, tak i si pripravil prehledny material, ze ktereho budu v budoucnu vychazet.
 
-# todo
 
+# Spusteni
+
+Semestralni prace je vytvorena v jupyter notebooku spolecne s komentari, notebook staci tedy jen spustit
